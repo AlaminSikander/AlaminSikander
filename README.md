@@ -1,4 +1,4 @@
-<img align="center" width="1050" src="https://pbs.twimg.com/profile_banners/1037271527392047104/1644955415/600x200">
+<img align="center" width="1050" src="https://media-exp1.licdn.com/dms/image/C5616AQHvqu05CVUn3A/profile-displaybackgroundimage-shrink_200_800/0/1644957993745?e=1650499200&v=beta&t=Evm5cLfgqVvqBB7eYpmIml0lUvouDO_TchCVeZDmBzs">
 <h1 align="center">Hi there 👋, I'm Md. Al-Amin Sikander</h1>
 <h2 align="center">A passionate frontend developer from Dhaka, Bangladesh</h2>
 
