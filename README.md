@@ -1,6 +1,6 @@
-### Hi there 👋, I'm Md. Al-Amin Sikander
-#### A passionate frontend developer from Dhaka, Bangladesh
 ![A passionate frontend developer from Dhaka, Bangladesh](https://pbs.twimg.com/profile_banners/1037271527392047104/1644955415/600x200)
+# Hi there 👋, I'm Md. Al-Amin Sikander
+## A passionate frontend developer from Dhaka, Bangladesh
 
 I am a front end web developer who is passionate about making error-free website. I have a passion for learning and sharing my knowledge with other has publicly as possible. I love to solve real-world problems. I enjoy working with ReactJS, javaScript as will as PHP.
 
