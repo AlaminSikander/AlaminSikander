@@ -3,7 +3,7 @@
 <h2 align="center">A passionate frontend developer from Dhaka, Bangladesh</h2>
 
 I am a front end web developer who is passionate about making error-free website. I have a passion for learning and sharing my knowledge with other has publicly as possible. I love to solve real-world problems. I enjoy working with ReactJS, javaScript as will as PHP.
-
+<br>
 Skills: ReactJS / javaScript / HTML / CSS / Bootstrap / Tailwind
 
 ![Profile views](https://gpvc.arturio.dev/AlaminSikander) 
