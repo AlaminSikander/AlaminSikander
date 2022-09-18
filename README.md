@@ -7,7 +7,7 @@ Skills: ReactJS / javaScript / HTML / CSS / Bootstrap / Tailwind
 
 ![Profile views](https://gpvc.arturio.dev/AlaminSikander) 
 
-- 🔭 I’m currently working on Kodeeo Limited 
+- 🔭 I’m currently working on Prospect Engine 
 - 🌱 I’m currently learning Everything 🤣 
 - 👯 I’m looking to collaborate on PSD to HTML CSS JS 
 - 💬 Ask me about HTML CSS BOOTSRAP TAILWIND JS REACT 
