@@ -1,6 +1,6 @@
 <img align="center" width="1050" src="https://media-exp1.licdn.com/dms/image/C5616AQHvqu05CVUn3A/profile-displaybackgroundimage-shrink_200_800/0/1644957993745?e=1650499200&v=beta&t=Evm5cLfgqVvqBB7eYpmIml0lUvouDO_TchCVeZDmBzs">
 <h1 align="center">Hi there 👋, I'm Md. Al-Amin Sikander</h1>
-<h2 align="center">A passionate frontend developer from Dhaka, Bangladesh</h2>
+<h2 align="center">A passionate frontend developer.</h2>
 I am a front end web developer who is passionate about making error-free website. I have a passion for learning and sharing my knowledge with other has publicly as possible. I love to solve real-world problems. I enjoy working with ReactJS, javaScript as will as PHP.
 
 Skills: ReactJS / javaScript / HTML / CSS / Bootstrap / Tailwind
